@@ -44,7 +44,7 @@ This is a real estate application built with React and Node.js. It allows users 
 
 1. Clone the repository:
 
-```git clone https://github.com/your-username/real-estate.git```
+```git clone https://github.com/VasuDevrani/Uni-fullstack.git```
 
 2. Install dependencies for the frontend and backend:
 
